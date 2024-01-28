@@ -3,6 +3,11 @@
 
 This project is clone of Netflix Webapp with an additional feature of GPT
 
+# Steps Taken
+ - Create React App
+ - Configured TailwindCSS
+ - Header
+ - Login Form
 
 ## Features
 
