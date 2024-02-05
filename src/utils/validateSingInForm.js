@@ -1,5 +1,5 @@
 export const ValidateForm = (isRegistered, phone,  email,  password) =>{
-console.log(isRegistered, phone,  email,  password, 'validation')
+// console.log(isRegistered, phone,  email,  password, 'validation')
 
    if(isRegistered){
     const isEmailValid = /^([a-zA-Z0-9._%-]+@[a-zA-Z0-9.-]+\.[a-zA-Z]{2,})$/.test(email)

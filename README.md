@@ -12,6 +12,10 @@ This project is clone of Netflix Webapp with an additional feature of GPT
  - Sign Up Form
  - Form Validation
  - useRef Hook
+- Firebase Setup
+- Deploying app to production
+- Create SignUp User Account
+
 
 ## Features
 
